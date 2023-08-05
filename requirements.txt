@@ -1,3 +1,4 @@
 nltk
+wordcloud
 tf-nightly
 tensorflow-datasets
